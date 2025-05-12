@@ -12,8 +12,7 @@
 <br>
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=kight&perline=7&i=html,css,js,ts,next,python,php,laravel,java,go,docker,,aws," />
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nextjs,python,php,laravel,java,go,docker,aws&perline=5)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nextjs,python,php,laravel,java,go,docker,aws&perline=5" width="600" />
 <br>
 
 ## Top Langs
