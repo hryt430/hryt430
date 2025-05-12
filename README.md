@@ -12,7 +12,7 @@
 <br>
 
 ## 🌱 Skills
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nextjs,python,php,laravel,java,go,docker,aws&perline=5" width="600" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nextjs,python,php,laravel,java,go,docker,aws&perline=5" width="400" />
 <br>
 
 ## Top Langs
